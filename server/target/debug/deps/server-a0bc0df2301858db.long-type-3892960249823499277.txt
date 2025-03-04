@@ -1,1 +1,0 @@
-fn(actix_web::web::Json<{type error}>) -> impl std::future::Future<Output = impl Responder> {create_user}
